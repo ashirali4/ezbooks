@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "697772186840",
+    "firebase_url": "https://ezbook-38f17-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ezbook-38f17",
+    "storage_bucket": "ezbook-38f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697772186840:android:88a6cd83309bbc6116cbad",
+        "android_client_info": {
+          "package_name": "com.example.ezbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697772186840-v8tien6a4tpbbpa59pf3tic7ntgbbcj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgCX2NfCm-JmGjRh4NzTZCEeMx9C_DKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697772186840-v8tien6a4tpbbpa59pf3tic7ntgbbcj8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697772186840-2g1j672r5k5ms2k8numb9m4u6mtl3hmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.sailani-ezbooks-ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697772186840:android:10833ce10c81da7b16cbad",
+        "android_client_info": {
+          "package_name": "com.sailani.ezbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697772186840-1qgjdqbnd529p6c0gnj88clkc3va9ihu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sailani.ezbook",
+            "certificate_hash": "d500b26ed51ab04b280d8433a98a7b20b26c0bf7"
+          }
+        },
+        {
+          "client_id": "697772186840-v8tien6a4tpbbpa59pf3tic7ntgbbcj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgCX2NfCm-JmGjRh4NzTZCEeMx9C_DKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697772186840-v8tien6a4tpbbpa59pf3tic7ntgbbcj8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697772186840-2g1j672r5k5ms2k8numb9m4u6mtl3hmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.sailani-ezbooks-ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
